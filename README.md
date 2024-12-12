@@ -18,4 +18,3 @@ I am currently pursuing a B.Tech in the Internet of Things (IoT) branch at<br> t
 ---
 [![](https://visitcount.itsvg.in/api?id=itsadityasingh&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
